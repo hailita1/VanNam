@@ -1,0 +1,972 @@
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\QLBH.exe.config
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\QLBH.exe
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\QLBH.pdb
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\obj\Debug\QLBH.csprojAssemblyReference.cache
+C:\Users\vuqua\source\repos\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+C:\Users\vuqua\source\repos\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+C:\Users\vuqua\source\repos\QLBH\QLBH\obj\Debug\QLBH.exe.licenses
+C:\Users\vuqua\source\repos\QLBH\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\source\repos\QLBH\QLBH\obj\Debug\QLBH.csproj.CopyComplete
+C:\Users\vuqua\source\repos\QLBH\QLBH\obj\Debug\QLBH.exe
+C:\Users\vuqua\source\repos\QLBH\QLBH\obj\Debug\QLBH.pdb
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\vuqua\source\repos\QLBH\QLBH\obj\Debug\QLBH.Frm_Main.resources
+C:\Users\vuqua\source\repos\QLBH\QLBH\obj\Debug\QLBH.frm_HoSoNhanVien.resources
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\QLBH.exe.config
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\QLBH.exe
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\QLBH.pdb
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.Frm_Main.resources
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.frm_HoSoNhanVien.resources
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.exe.licenses
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.csproj.CopyComplete
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.exe
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.pdb
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.Frm_QueQuan.resources
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.frm_MonAn.resources
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.frm_CongDung.resources
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.frm_LoaiMonAn.resources
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.frm_NguyenLieu_MonAn.resources
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.frm_NguyenLieu.resources
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.frm_NCC.resources
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.frm_KhachHang.resources
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.frm_ChiTietHD.resources
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.frm_HoaDon.resources
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.frm_chitietdatban.resources
+C:\Users\Admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.frm_DatBan.resources
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.exe.config
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.exe
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.pdb
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Data.v19.1.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Images.v19.1.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Data.v19.1.xml
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csprojAssemblyReference.cache
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_chitietdatban.resources
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_ChiTietHD.resources
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_CongDung.resources
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_DatBan.resources
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_HoaDon.resources
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_KhachHang.resources
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_LoaiMonAn.resources
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_Main.resources
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_MonAn.resources
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NCC.resources
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NguyenLieu_MonAn.resources
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NguyenLieu.resources
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.Frm_QueQuan.resources
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_HoSoNhanVien.resources
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.exe.licenses
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.CopyComplete
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.exe
+D:\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.pdb
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.exe.config
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.exe
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.pdb
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Data.v19.1.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Images.v19.1.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Data.v19.1.xml
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csprojAssemblyReference.cache
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_chitietdatban.resources
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_ChiTietHD.resources
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_CongDung.resources
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_DatBan.resources
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_HoaDon.resources
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_KhachHang.resources
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_LoaiMonAn.resources
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_Main.resources
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_MonAn.resources
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NCC.resources
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NguyenLieu_MonAn.resources
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NguyenLieu.resources
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.Frm_QueQuan.resources
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_HoSoNhanVien.resources
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.exe.licenses
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.CopyComplete
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.exe
+D:\QLNhaHang\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.pdb
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.exe.config
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.exe
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.pdb
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Data.v19.1.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Images.v19.1.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Data.v19.1.xml
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csprojAssemblyReference.cache
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_chitietdatban.resources
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_ChiTietHD.resources
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_CongDung.resources
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_DatBan.resources
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_HoaDon.resources
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_KhachHang.resources
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_LoaiMonAn.resources
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_Main.resources
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_MonAn.resources
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NCC.resources
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NguyenLieu_MonAn.resources
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NguyenLieu.resources
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.Frm_QueQuan.resources
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_HoSoNhanVien.resources
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.exe.licenses
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.CopyComplete
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.exe
+D:\ki1nam3\btlNew\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.pdb
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.exe.config
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.exe
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.pdb
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Data.v19.1.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Images.v19.1.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Data.v19.1.xml
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csprojAssemblyReference.cache
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_chitietdatban.resources
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_ChiTietHD.resources
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_CongDung.resources
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_DatBan.resources
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_HoaDon.resources
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_KhachHang.resources
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_LoaiMonAn.resources
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_Main.resources
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_MonAn.resources
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NCC.resources
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NguyenLieu_MonAn.resources
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NguyenLieu.resources
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.Frm_QueQuan.resources
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_HoSoNhanVien.resources
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.exe.licenses
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.CopyComplete
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.exe
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.pdb
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\ki1nam3\New folder\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csprojAssemblyReference.cache
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_chitietdatban.resources
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_ChiTietHD.resources
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_CongDung.resources
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_DatBan.resources
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_HoaDon.resources
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_KhachHang.resources
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_LoaiMonAn.resources
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_Main.resources
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_MonAn.resources
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NCC.resources
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NguyenLieu_MonAn.resources
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NguyenLieu.resources
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.Frm_QueQuan.resources
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_HoSoNhanVien.resources
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.exe.licenses
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.exe
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.pdb
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.exe.config
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.exe
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.pdb
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL_ChinhThuc\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.CopyComplete
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_chitietdatban.resources
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_ChiTietHD.resources
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_CongDung.resources
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_DatBan.resources
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_HoaDon.resources
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_KhachHang.resources
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_LoaiMonAn.resources
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_Main.resources
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_MonAn.resources
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NCC.resources
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NguyenLieu_MonAn.resources
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NguyenLieu.resources
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.Frm_QueQuan.resources
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_HoSoNhanVien.resources
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.exe.licenses
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.exe
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.pdb
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.exe.config
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.exe
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.pdb
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.CopyComplete
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.views.frm_RpTongTien.resources
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\FlashControlV71.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.views.frm_ThongTinPhienBan.resources
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.views.frm_RpPhieuDatBan.resources
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.views.frm_RpMonAn.resources
+C:\Users\Admin\Desktop\Bài Tập Lớn C#\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.views.frm_RpNhapXuat.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.exe.config
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.exe
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\QLBH.pdb
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\FlashControlV71.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\stdole.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csprojAssemblyReference.cache
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_chitietdatban.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_ChiTietHD.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_CongDung.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_DatBan.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_HoaDon.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_KhachHang.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_LoaiMonAn.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_Main.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_MonAn.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NCC.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NguyenLieu_MonAn.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_NguyenLieu.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.Frm_QueQuan.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.frm_HoSoNhanVien.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.views.frm_RpMonAn.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.views.frm_RpNhapXuat.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.views.frm_RpPhieuDatBan.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.views.frm_RpTongTien.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.views.frm_ThongTinPhienBan.resources
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.exe.licenses
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.csproj.CopyComplete
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.exe
+C:\Users\haili\Downloads\BTL\BTL_MinhVu\BTL_C-_Hai-master\QLBHNew-master\QLNhaHang\QLBH\QLBH\obj\Debug\QLBH.pdb
